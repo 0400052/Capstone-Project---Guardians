@@ -2942,3 +2942,13 @@
 2023-08-25 22:48:22,608 - logger_File -INFO - Subject line filled out successfullyAmazingdescription filled out successfullyGood graphics and maps
 2023-08-25 22:48:22,740 - logger_File -INFO - Review Added Successfully
 2023-08-25 22:48:23,424 - logger_File -INFO - Reviewed Message Displayed Successfully
+2023-08-25 23:20:23,781 - logger_File -INFO - Login link was clicked successfully
+2023-08-25 23:20:24,081 - logger_File -INFO - User successfully entered emailAhmad.F.Ghafoor@tekschool.us and passwordTek@School1
+2023-08-25 23:20:24,181 - logger_File -INFO - user clicked login button
+2023-08-25 23:20:24,414 - logger_File -INFO - Account button is displayed
+2023-08-25 23:20:24,585 - logger_File -INFO - order link was clicked successfully
+2023-08-25 23:20:25,746 - logger_File -INFO - First order in the list clicked
+2023-08-25 23:20:25,902 - logger_File -INFO - Review button clicked
+2023-08-25 23:20:26,190 - logger_File -INFO - Subject line filled out successfullyAmazingdescription filled out successfullyGood graphics and maps
+2023-08-25 23:20:26,287 - logger_File -INFO - Review Added Successfully
+2023-08-25 23:20:26,933 - logger_File -INFO - Reviewed Message Displayed Successfully
