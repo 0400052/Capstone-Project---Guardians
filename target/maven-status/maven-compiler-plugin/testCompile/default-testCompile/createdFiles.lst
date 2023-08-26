@@ -2,10 +2,14 @@ tek\sdet\framework\base\BaseUITest.class
 tek\sdet\framework\pages\RetailAccountPage.class
 tek\sdet\framework\steps\HomeSteps.class
 tek\sdet\framework\steps\MultipleWindowsSteps.class
+tek\sdet\framework\runner\RetailAccountRunner.class
 tek\sdet\framework\pages\RetailOrderPage.class
+tek\sdet\framework\runner\SignInRunner.class
 tek\sdet\framework\pages\POMFactory.class
+tek\sdet\framework\runner\RetailOrderRunner.class
 tek\sdet\framework\steps\RetailAccountSteps.class
 tek\sdet\framework\runner\TestRunner.class
+tek\sdet\framework\runner\RetailHomeRunner.class
 tek\sdet\framework\pages\MultipleWindowsPage.class
 tek\sdet\framework\steps\RetailOrderSteps.class
 tek\sdet\framework\pages\RetailHomePage.class
