@@ -16,6 +16,6 @@ When User click on Sign in option
 And User click on Create New Account button 
 And User fill the signUp information with below data 
 | name | email | password | confirmPassword |
-| Ahmad Ghafoor | afhhhhfoo@tekschool.us | Tek@12345 | Tek@12345 |
+| Ahmad Ghafoor | affoo@tekschool.us | Tek@12345 | Tek@12345 |
 And User click on SignUp button
 Then User should be logged into account page 
