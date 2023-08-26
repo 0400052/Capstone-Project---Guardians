@@ -1,4 +1,4 @@
-@smoke
+@RegressionRetailAccount
 Feature: Retail Account Page
 
   Background: Verify user can sign in into Retail Application
@@ -11,7 +11,7 @@ Feature: Retail Account Page
   @update
   Scenario: Verify User can update Profile information
     When User click on Account option
-    And User update Name 'AhmadFaridGhafoor' and Phone '9198700300'
+    And User update Name 'AhmadFaaridGhafoor' and Phone '9198700300'
     And User click on Update button
     Then user profile information should be updated
 
@@ -21,7 +21,7 @@ Feature: Retail Account Page
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 2353393000060054 | Shad Gull  |              10 |           2029 |          203 |
+      | 2303393000060050 | Shad Gull  |              10 |           2029 |          203 |
     And User click on Add your card button
     Then a message should be displayed 'Payment Method added sucessfully'
 
@@ -32,7 +32,7 @@ Feature: Retail Account Page
     And User click on Edit option of card section
     And User edit information with below data
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 2300000250460794 | Shad bolum |               8 |           2042 |          100 |
+      | 2300000259460790 | Shad bolum |               8 |           2042 |          100 |
     And User click on Update your card button
     Then a message should be displayed "Payment Method updated Successfully"
 
