@@ -1,10 +1,10 @@
 -------------------------------------------------------------------------------
 Test set: tek.sdet.framework.runner.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 12, Failures: 0, Errors: 12, Skipped: 0, Time elapsed: 18.89 s <<< FAILURE! - in tek.sdet.framework.runner.TestRunner
-Retail Order Page.Verify User can add an item to cart  Time elapsed: 7.879 s  <<< ERROR!
+Tests run: 12, Failures: 0, Errors: 12, Skipped: 0, Time elapsed: 20.572 s <<< FAILURE! - in tek.sdet.framework.runner.TestRunner
+Retail Order Page.Verify User can add an item to cart  Time elapsed: 7.985 s  <<< ERROR!
 org.openqa.selenium.remote.http.ConnectionFailedException: 
-Unable to establish websocket connection to http://localhost:57081/devtools/browser/25cbeb4d-ce61-4269-8654-6315256d2062
+Unable to establish websocket connection to http://localhost:57713/devtools/browser/79abd429-c4b9-4710-88f2-fb8c9eba44fe
 Build info: version: '4.4.0', revision: 'e5c75ed026a'
 System info: host: 'DESKTOP-R5CPUJ5', ip: '192.168.86.133', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
 Driver info: driver.version: ChromeDriver
@@ -21,14 +21,14 @@ Driver info: driver.version: ChromeDriver
 	at tek.sdet.framework.base.BaseSetup.setupBrowser(BaseSetup.java:56)
 	at tek.sdet.framework.base.BaseUITest.setupTests(BaseUITest.java:12)
 
-Retail Order Page.Verify User can add an item to cart  Time elapsed: 7.879 s  <<< ERROR!
+Retail Order Page.Verify User can add an item to cart  Time elapsed: 7.985 s  <<< ERROR!
 java.lang.NullPointerException
 	at tek.sdet.framework.utilities.CommonUtility.takeScreenShotAsByte(CommonUtility.java:59)
 	at tek.sdet.framework.base.BaseUITest.closeTests(BaseUITest.java:18)
 
-Retail Order Page.Verify User can place an order with Shipping address and payment Method on file #1  Time elapsed: 1.936 s  <<< ERROR!
+Retail Order Page.Verify User can place an order with Shipping address and payment Method on file #1  Time elapsed: 2.254 s  <<< ERROR!
 org.openqa.selenium.remote.http.ConnectionFailedException: 
-Unable to establish websocket connection to http://localhost:57102/devtools/browser/8dfd0a12-dd08-4ea7-af51-c57290329381
+Unable to establish websocket connection to http://localhost:57732/devtools/browser/04014ca2-3043-4fe7-bee0-e54e71f710bd
 Build info: version: '4.4.0', revision: 'e5c75ed026a'
 System info: host: 'DESKTOP-R5CPUJ5', ip: '192.168.86.133', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
 Driver info: driver.version: ChromeDriver
@@ -45,14 +45,14 @@ Driver info: driver.version: ChromeDriver
 	at tek.sdet.framework.base.BaseSetup.setupBrowser(BaseSetup.java:56)
 	at tek.sdet.framework.base.BaseUITest.setupTests(BaseUITest.java:12)
 
-Retail Order Page.Verify User can place an order with Shipping address and payment Method on file #1  Time elapsed: 1.936 s  <<< ERROR!
+Retail Order Page.Verify User can place an order with Shipping address and payment Method on file #1  Time elapsed: 2.254 s  <<< ERROR!
 java.lang.NullPointerException
 	at tek.sdet.framework.utilities.CommonUtility.takeScreenShotAsByte(CommonUtility.java:59)
 	at tek.sdet.framework.base.BaseUITest.closeTests(BaseUITest.java:18)
 
-Retail Order Page.Verify User can Return the order  Time elapsed: 1.862 s  <<< ERROR!
+Retail Order Page.Verify User can Return the order  Time elapsed: 1.779 s  <<< ERROR!
 org.openqa.selenium.remote.http.ConnectionFailedException: 
-Unable to establish websocket connection to http://localhost:57120/devtools/browser/af168961-e42d-4c32-aee8-5e584f409a8e
+Unable to establish websocket connection to http://localhost:57750/devtools/browser/b1b10fec-6a0f-4f93-92f4-92192a2a6c25
 Build info: version: '4.4.0', revision: 'e5c75ed026a'
 System info: host: 'DESKTOP-R5CPUJ5', ip: '192.168.86.133', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
 Driver info: driver.version: ChromeDriver
@@ -69,14 +69,14 @@ Driver info: driver.version: ChromeDriver
 	at tek.sdet.framework.base.BaseSetup.setupBrowser(BaseSetup.java:56)
 	at tek.sdet.framework.base.BaseUITest.setupTests(BaseUITest.java:12)
 
-Retail Order Page.Verify User can Return the order  Time elapsed: 1.862 s  <<< ERROR!
+Retail Order Page.Verify User can Return the order  Time elapsed: 1.779 s  <<< ERROR!
 java.lang.NullPointerException
 	at tek.sdet.framework.utilities.CommonUtility.takeScreenShotAsByte(CommonUtility.java:59)
 	at tek.sdet.framework.base.BaseUITest.closeTests(BaseUITest.java:18)
 
-Retail Order Page.Verify User can write a review on order placed  Time elapsed: 1.746 s  <<< ERROR!
+Retail Order Page.Verify User can write a review on order placed  Time elapsed: 1.823 s  <<< ERROR!
 org.openqa.selenium.remote.http.ConnectionFailedException: 
-Unable to establish websocket connection to http://localhost:57138/devtools/browser/bf489643-4d1c-4e6a-9310-28230ee5646e
+Unable to establish websocket connection to http://localhost:57768/devtools/browser/874f1d6e-0ff5-4a8f-b8b7-23e94120ed99
 Build info: version: '4.4.0', revision: 'e5c75ed026a'
 System info: host: 'DESKTOP-R5CPUJ5', ip: '192.168.86.133', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
 Driver info: driver.version: ChromeDriver
@@ -93,14 +93,14 @@ Driver info: driver.version: ChromeDriver
 	at tek.sdet.framework.base.BaseSetup.setupBrowser(BaseSetup.java:56)
 	at tek.sdet.framework.base.BaseUITest.setupTests(BaseUITest.java:12)
 
-Retail Order Page.Verify User can write a review on order placed  Time elapsed: 1.746 s  <<< ERROR!
+Retail Order Page.Verify User can write a review on order placed  Time elapsed: 1.823 s  <<< ERROR!
 java.lang.NullPointerException
 	at tek.sdet.framework.utilities.CommonUtility.takeScreenShotAsByte(CommonUtility.java:59)
 	at tek.sdet.framework.base.BaseUITest.closeTests(BaseUITest.java:18)
 
-Retail Order Page.Verify User can place an order with Shipping address and payment Method on file #2  Time elapsed: 1.75 s  <<< ERROR!
+Retail Order Page.Verify User can place an order with Shipping address and payment Method on file #2  Time elapsed: 1.834 s  <<< ERROR!
 org.openqa.selenium.remote.http.ConnectionFailedException: 
-Unable to establish websocket connection to http://localhost:57156/devtools/browser/5a65843b-f6d2-4008-befe-ef09404b2753
+Unable to establish websocket connection to http://localhost:57785/devtools/browser/92750a9e-9c3f-4a15-aae8-b4bca3b29002
 Build info: version: '4.4.0', revision: 'e5c75ed026a'
 System info: host: 'DESKTOP-R5CPUJ5', ip: '192.168.86.133', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
 Driver info: driver.version: ChromeDriver
@@ -117,14 +117,14 @@ Driver info: driver.version: ChromeDriver
 	at tek.sdet.framework.base.BaseSetup.setupBrowser(BaseSetup.java:56)
 	at tek.sdet.framework.base.BaseUITest.setupTests(BaseUITest.java:12)
 
-Retail Order Page.Verify User can place an order with Shipping address and payment Method on file #2  Time elapsed: 1.75 s  <<< ERROR!
+Retail Order Page.Verify User can place an order with Shipping address and payment Method on file #2  Time elapsed: 1.834 s  <<< ERROR!
 java.lang.NullPointerException
 	at tek.sdet.framework.utilities.CommonUtility.takeScreenShotAsByte(CommonUtility.java:59)
 	at tek.sdet.framework.base.BaseUITest.closeTests(BaseUITest.java:18)
 
-Retail Order Page.Verify User can cancel the order  Time elapsed: 1.776 s  <<< ERROR!
+Retail Order Page.Verify User can cancel the order  Time elapsed: 2.245 s  <<< ERROR!
 org.openqa.selenium.remote.http.ConnectionFailedException: 
-Unable to establish websocket connection to http://localhost:57173/devtools/browser/96563dd0-638a-4642-8965-1a176e85a26f
+Unable to establish websocket connection to http://localhost:57803/devtools/browser/19a882c3-34ba-448c-9707-e7a4942c0ec2
 Build info: version: '4.4.0', revision: 'e5c75ed026a'
 System info: host: 'DESKTOP-R5CPUJ5', ip: '192.168.86.133', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
 Driver info: driver.version: ChromeDriver
@@ -141,7 +141,7 @@ Driver info: driver.version: ChromeDriver
 	at tek.sdet.framework.base.BaseSetup.setupBrowser(BaseSetup.java:56)
 	at tek.sdet.framework.base.BaseUITest.setupTests(BaseUITest.java:12)
 
-Retail Order Page.Verify User can cancel the order  Time elapsed: 1.776 s  <<< ERROR!
+Retail Order Page.Verify User can cancel the order  Time elapsed: 2.245 s  <<< ERROR!
 java.lang.NullPointerException
 	at tek.sdet.framework.utilities.CommonUtility.takeScreenShotAsByte(CommonUtility.java:59)
 	at tek.sdet.framework.base.BaseUITest.closeTests(BaseUITest.java:18)
