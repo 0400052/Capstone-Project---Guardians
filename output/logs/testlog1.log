@@ -3482,3 +3482,70 @@
 2023-08-29 09:41:47,715 [main] INFO logger_File - Carrier Selected
 2023-08-29 09:41:47,950 [main] INFO logger_File - Return order button clicked
 2023-08-29 09:41:48,149 [main] INFO logger_File - Item Returned Successfully
+2023-08-29 10:26:22,364 [main] INFO logger_File - Login link was clicked successfully
+2023-08-29 10:26:23,140 [main] INFO logger_File - User successfully entered emailAhmad.F.Ghafoor@tekschool.us and passwordTek@School1
+2023-08-29 10:26:23,404 [main] INFO logger_File - user clicked login button
+2023-08-29 10:26:23,673 [main] INFO logger_File - Account button is displayed
+2023-08-29 10:26:24,068 [main] INFO logger_File - Category was selected successfully from dropdown
+2023-08-29 10:26:24,345 [main] INFO logger_File - Item name was entered successfully
+2023-08-29 10:26:24,558 [main] INFO logger_File - Search button was clicked successfully
+2023-08-29 10:26:24,897 [main] INFO logger_File - Item was added successfully
+2023-08-29 10:26:26,013 [main] INFO logger_File - item quantity was selected successfully
+2023-08-29 10:26:26,379 [main] INFO logger_File - Cart button was clicked successfully
+2023-08-29 10:26:30,623 [main] INFO logger_File - Login link was clicked successfully
+2023-08-29 10:26:31,463 [main] INFO logger_File - User successfully entered emailAhmad.F.Ghafoor@tekschool.us and passwordTek@School1
+2023-08-29 10:26:31,694 [main] INFO logger_File - user clicked login button
+2023-08-29 10:26:31,974 [main] INFO logger_File - Account button is displayed
+2023-08-29 10:26:32,435 [main] INFO logger_File - Category changed to electronics successfully
+2023-08-29 10:26:32,698 [main] INFO logger_File - Item name was entered successfully
+2023-08-29 10:26:32,916 [main] INFO logger_File - Search button was clicked successfully
+2023-08-29 10:26:33,281 [main] INFO logger_File - Item Apex Legends was clicked successfully
+2023-08-29 10:26:33,700 [main] INFO logger_File - Apex Legends Quantity selected successfully
+2023-08-29 10:26:33,916 [main] INFO logger_File - Cart button was clicked successfully
+2023-08-29 10:26:34,178 [main] INFO logger_File - Cart Button was clicked successfully
+2023-08-29 10:26:34,487 [main] INFO logger_File - proceed to checkout button was clicked successfully
+2023-08-29 10:26:34,715 [main] INFO logger_File - Placed the order successfully
+2023-08-29 10:26:37,837 [main] INFO logger_File - Login link was clicked successfully
+2023-08-29 10:26:38,512 [main] INFO logger_File - User successfully entered emailAhmad.F.Ghafoor@tekschool.us and passwordTek@School1
+2023-08-29 10:26:38,753 [main] INFO logger_File - user clicked login button
+2023-08-29 10:26:39,046 [main] INFO logger_File - Account button is displayed
+2023-08-29 10:26:39,515 [main] INFO logger_File - order link was clicked successfully
+2023-08-29 10:26:45,684 [main] INFO logger_File - First order in the list clicked
+2023-08-29 10:26:45,941 [main] INFO logger_File - Return Button clicked
+2023-08-29 10:26:46,238 [main] INFO logger_File - Return Reason clicked
+2023-08-29 10:26:46,536 [main] INFO logger_File - Carrier Selected
+2023-08-29 10:26:46,789 [main] INFO logger_File - Return order button clicked
+2023-08-29 10:26:46,970 [main] INFO logger_File - Item Returned Successfully
+2023-08-29 10:26:49,815 [main] INFO logger_File - Login link was clicked successfully
+2023-08-29 10:26:50,502 [main] INFO logger_File - User successfully entered emailAhmad.F.Ghafoor@tekschool.us and passwordTek@School1
+2023-08-29 10:26:50,732 [main] INFO logger_File - user clicked login button
+2023-08-29 10:26:50,993 [main] INFO logger_File - Account button is displayed
+2023-08-29 10:26:51,429 [main] INFO logger_File - order link was clicked successfully
+2023-08-29 10:26:56,775 [main] INFO logger_File - First order in the list clicked
+2023-08-29 10:26:57,074 [main] INFO logger_File - Review button clicked
+2023-08-29 10:26:57,659 [main] INFO logger_File - Subject line filled out successfullyAmazingdescription filled out successfullyGood graphics and maps
+2023-08-29 10:26:57,877 [main] INFO logger_File - Review Added Successfully
+2023-08-29 10:26:58,735 [main] INFO logger_File - Reviewed Message Displayed Successfully
+2023-08-29 10:27:02,011 [main] INFO logger_File - Login link was clicked successfully
+2023-08-29 10:27:02,800 [main] INFO logger_File - User successfully entered emailAhmad.F.Ghafoor@tekschool.us and passwordTek@School1
+2023-08-29 10:27:03,008 [main] INFO logger_File - user clicked login button
+2023-08-29 10:27:03,301 [main] INFO logger_File - Account button is displayed
+2023-08-29 10:27:03,735 [main] INFO logger_File - Category changed to electronics successfully
+2023-08-29 10:27:04,013 [main] INFO logger_File - Item name was entered successfully
+2023-08-29 10:27:04,231 [main] INFO logger_File - Search button was clicked successfully
+2023-08-29 10:27:04,534 [main] INFO logger_File - Item Apex Legends was clicked successfully
+2023-08-29 10:27:05,061 [main] INFO logger_File - Apex Legends Quantity selected successfully
+2023-08-29 10:27:05,268 [main] INFO logger_File - Cart button was clicked successfully
+2023-08-29 10:27:05,547 [main] INFO logger_File - Cart Button was clicked successfully
+2023-08-29 10:27:05,817 [main] INFO logger_File - proceed to checkout button was clicked successfully
+2023-08-29 10:27:06,031 [main] INFO logger_File - Placed the order successfully
+2023-08-29 10:27:09,177 [main] INFO logger_File - Login link was clicked successfully
+2023-08-29 10:27:09,839 [main] INFO logger_File - User successfully entered emailAhmad.F.Ghafoor@tekschool.us and passwordTek@School1
+2023-08-29 10:27:10,047 [main] INFO logger_File - user clicked login button
+2023-08-29 10:27:10,648 [main] INFO logger_File - Account button is displayed
+2023-08-29 10:27:11,071 [main] INFO logger_File - order link was clicked successfully
+2023-08-29 10:27:16,668 [main] INFO logger_File - First order in the list clicked
+2023-08-29 10:27:16,859 [main] INFO logger_File - Order cancel button was clicked
+2023-08-29 10:27:17,134 [main] INFO logger_File - cancelation reason was selected
+2023-08-29 10:27:17,344 [main] INFO logger_File - Cancel Button was clicked successfully
+2023-08-29 10:27:17,531 [main] INFO logger_File - Cancelation success message was verified successfully
