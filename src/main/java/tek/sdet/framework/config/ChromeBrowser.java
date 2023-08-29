@@ -10,7 +10,6 @@ public class ChromeBrowser implements Browser {
 
 	public WebDriver openBrowser(String url) {
 
-		WebDriverManager.chromedriver().setup();
 		ChromeOptions ops = new ChromeOptions();
 		ops.addArguments("--remote-allow-origins=*");
 		WebDriver driver = new ChromeDriver(ops);
